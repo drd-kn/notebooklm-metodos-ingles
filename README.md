@@ -79,7 +79,7 @@ Suas regras de atuação são:
 ## 🗺️ Mapa Mental e Materiais Complementares
 
 ### Mapa Mental das Fontes e Pilares:
-![Mapa Mental](assets/mapa-mental-ingles.png)
+![Mapa Mental](assets/NotebookLM Mind Map.png)
 
 ### Guia Completo de Estudos (PDF):
 O caderno gerou um guia detalhado de 5 páginas contendo:
