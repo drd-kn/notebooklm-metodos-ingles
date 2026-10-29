@@ -62,7 +62,7 @@ Suas regras de atuação são:
 - **Síntese da resposta:** O notebook explicou que atingir a fluência exige um repertório de aproximadamente 10.000 palavras. Mantendo a disciplina de aprender 10 palavras novas por dia, o processo leva cerca de 3 anos (mesmo imersões intensas estimam pelo menos 18 meses). O desenvolvimento da compreensão auditiva (*listening*) foi apontado como o processo mais longo e que exige exposição diária constante.
 - **Citações rastreadas:** Fontes `[1]`, `[2]`, `[3]`, `[4]`, `[5]` e `[6]`.
 
-![Evidência Pergunta 1](assets/print-desmita-o-mito.png)
+![Evidência Pergunta 1](assets/print-desminta-o-mito.png)
 
 ---
 
@@ -79,7 +79,7 @@ Suas regras de atuação são:
 ## 🗺️ Mapa Mental e Materiais Complementares
 
 ### Mapa Mental das Fontes e Pilares:
-![Mapa Mental](assets/NotebookLM Mind Map.png)
+![Mapa Mental](assets/mapa-mental.png)
 
 ### Guia Completo de Estudos (PDF):
 O caderno gerou um guia detalhado de 5 páginas contendo:
