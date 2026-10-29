@@ -89,7 +89,7 @@ O caderno gerou um guia detalhado de 5 páginas contendo:
 - Treino de *listening* e conversação (*Shadowing*, *Language Reactor*, ChatGPT Voz);
 - Cronogramas práticos (Rotina de 1h do Mairo Vergara, Cronograma Semanal da Lívia Lobo e Plano de Choque de 1 mês).
 
-📄 **O arquivo está disponível para download em:** [`docs/guia-estudo-ingles-autonomo.pdf`](docs/guia-estudo-ingles-autonomo.pdf)
+📄 **O arquivo está disponível para download em:** [`docs/guia-estudo-ingles-autonomo.pdf`](docs/guia-de-estudo-autonomo.pdf)
 
 ---
 
